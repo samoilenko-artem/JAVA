@@ -2,10 +2,10 @@ package by.gsu.asoilab;
 
 public class Icecream {
     private String name;
-    private String chocolate;
+    private boolean chocolate;
     private int fat;
 
-    public Icecream(String name, String chocolate, int fat){
+    public Icecream(String name, boolean chocolate, int fat){
         this.name = name;
         this.chocolate = chocolate;
         this.fat = fat;
@@ -19,7 +19,7 @@ public class Icecream {
         this.name = name;
     }
 
-    public String getChocolate(){
+    public boolean getChocolate(){
         return chocolate;
     }
 
