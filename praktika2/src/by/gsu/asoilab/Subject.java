@@ -3,7 +3,7 @@ import by.gsu.asoilab.Material;
 public class Subject {
     private final static String name="wire";
     private Material material;
-    private final static double volume=0.03;
+    private double volume=0.03;
 
     public Subject(Material material) {
         this.material = material;
