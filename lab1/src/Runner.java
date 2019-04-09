@@ -22,6 +22,7 @@ public class Runner {
         show(icecreams);
 
         Arrays.sort(icecreams, new Comparator<Icecream>() {
+            @Override
             public int compare(Icecream o1, Icecream o2) {
                 return o1.getFat() - o2.getFat();
             }
@@ -30,6 +31,7 @@ public class Runner {
         show(icecreams);
 
         Arrays.sort(icecreams, new Comparator<Icecream>() {
+            @Override
             public int compare(Icecream o1, Icecream o2)
             {
                 return o1.getName().compareTo(o2.getName());

@@ -15,7 +15,7 @@ public class Icecream {
         return name;
     }
 
-    public void setName(String last_name){
+    public void setName(String name){
         this.name = name;
     }
 
@@ -23,7 +23,7 @@ public class Icecream {
         return chocolate;
     }
 
-    public void setAge(int age){
+    public void setChocolate(boolean chocolate){
         this.chocolate = chocolate;
     }
 
@@ -31,7 +31,7 @@ public class Icecream {
         return fat;
     }
 
-    public void setFat(String sex){
+    public void setFat(int fat){
         this.fat = fat;
     }
     public void show(){
