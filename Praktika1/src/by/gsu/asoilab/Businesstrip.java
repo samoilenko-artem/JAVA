@@ -4,7 +4,7 @@ public class Businesstrip {
     private String account;
     private int transport;
     private int days;
-    final int rate=25000;
+    final int RATE=25000;
     public Businesstrip(String account,int transport,int days){
         this.account = account;
         this.transport = transport;
@@ -35,13 +35,13 @@ public class Businesstrip {
         this.days = days;
     }
     public int getTotal(){
-        return transport + rate * days;
+        return transport + RATE * days;
     }
     public String toString(){
-        return rate+";"+account+";"+transport+";"+days+";";
+        return RATE+";"+account+";"+transport+";"+days+";";
     }
     public void show(){
-        System.out.println("rate = "+rate +"\naccount = "+account+"\ntransport = "+transport
+        System.out.println("rate = "+ RATE +"\naccount = "+account+"\ntransport = "+transport
                 +"\ndays ="+days+"\ntotal = "+getTotal());
     }
 }
