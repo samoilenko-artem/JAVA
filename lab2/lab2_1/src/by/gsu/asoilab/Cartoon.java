@@ -24,11 +24,6 @@ public class Cartoon extends Film {
         style = ob.style;
     }
 
-    @Override
-    public void Name(){
-        System.out.println("НУ погоди!");
-    }
-
     public String getPainter() {
         return painter;
     }

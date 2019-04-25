@@ -15,8 +15,10 @@ public class Cartoon implements Film,Object {
     public void printInfo(Film[] ob) throws java.io.IOException {
         films = ob;
         for (Film  i:ob){
-            if (i.getClass() == Cartoon.class)
-            System.out.println(i);
+            if (i.getClass() == Cartoon.class) {
+                System.out.println(i.Name());
+                System.out.println(i);
+            }
         }
         System.out.println();
     }
@@ -54,8 +56,8 @@ public class Cartoon implements Film,Object {
     public Cartoon(){
     }
 
-    public void Name(){
-        System.out.println("НУ погоди!");
+    public String Name(){
+        return "НУ погоди!";
     }
 
     public String getPainter() {

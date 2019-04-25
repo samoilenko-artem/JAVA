@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,14 +44,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Historical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="867">
+              <caret line="57" selection-start-line="57" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="e#1488#1489#0" expanded="true" />
                 <element signature="e#1517#1518#0" expanded="true" />
+                <element signature="e#1560#1561#0" expanded="true" />
                 <element signature="e#1599#1600#0" expanded="true" />
+                <element signature="e#1663#1664#0" expanded="true" />
                 <element signature="e#1719#1720#0" expanded="true" />
+                <element signature="e#1764#1765#0" expanded="true" />
                 <element signature="e#1805#1806#0" expanded="true" />
+                <element signature="e#1873#1874#0" expanded="true" />
                 <element signature="e#1933#1934#0" expanded="true" />
               </folding>
             </state>
@@ -61,14 +65,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Musical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="459">
               <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding>
                 <element signature="e#1405#1406#0" expanded="true" />
                 <element signature="e#1442#1443#0" expanded="true" />
+                <element signature="e#1479#1480#0" expanded="true" />
                 <element signature="e#1512#1513#0" expanded="true" />
+                <element signature="e#1564#1565#0" expanded="true" />
                 <element signature="e#1608#1609#0" expanded="true" />
+                <element signature="e#1645#1646#0" expanded="true" />
                 <element signature="e#1681#1682#0" expanded="true" />
+                <element signature="e#1736#1737#0" expanded="true" />
                 <element signature="e#1786#1787#0" expanded="true" />
               </folding>
             </state>
@@ -78,15 +86,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Cartoons/Original.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="442">
+              <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1603#1604#0" expanded="true" />
                 <element signature="e#1643#1644#0" expanded="true" />
+                <element signature="e#1677#1678#0" expanded="true" />
                 <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1753#1754#0" expanded="true" />
                 <element signature="e#1791#1792#0" expanded="true" />
+                <element signature="e#1823#1824#0" expanded="true" />
                 <element signature="e#1851#1852#0" expanded="true" />
+                <element signature="e#1893#1894#0" expanded="true" />
                 <element signature="e#1927#1928#0" expanded="true" />
                 <element signature="e#1958#1959#0" expanded="true" />
                 <element signature="e#2060#2061#0" expanded="true" />
@@ -98,21 +110,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Cartoons/Translated.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="476">
               <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
                 <element signature="e#1429#1430#0" expanded="true" />
                 <element signature="e#1465#1466#0" expanded="true" />
+                <element signature="e#1499#1500#0" expanded="true" />
                 <element signature="e#1529#1530#0" expanded="true" />
+                <element signature="e#1575#1576#0" expanded="true" />
                 <element signature="e#1613#1614#0" expanded="true" />
+                <element signature="e#1645#1646#0" expanded="true" />
                 <element signature="e#1673#1674#0" expanded="true" />
+                <element signature="e#1715#1716#0" expanded="true" />
                 <element signature="e#1749#1750#0" expanded="true" />
                 <element signature="e#1780#1781#0" expanded="true" />
                 <element signature="e#1874#1875#0" expanded="true" />
@@ -121,7 +131,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Cartoon.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -174,35 +184,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="lab2_1 — копия — копия" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_1 — копия — копия" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab2_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lab2_1 — копия — копия" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_1 — копия — копия" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab2_3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="lab2_1 — копия — копия" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab2_1 — копия — копия" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab2_3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="asoilab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab2_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="asoilab" type="462c0819:PsiDirectoryNode" />
+              <item name="Cartoons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556181133853" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practica3" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556207214130" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2_1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -247,9 +264,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26145834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -259,7 +276,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32804233" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -282,10 +299,13 @@
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asiolab/Film.java" />
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asiolab/Historical.java" />
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asiolab/Musical.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -296,16 +316,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Historical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="867">
+          <caret line="57" selection-start-line="57" selection-end-line="59" selection-end-column="5" />
           <folding>
             <element signature="e#1488#1489#0" expanded="true" />
             <element signature="e#1517#1518#0" expanded="true" />
+            <element signature="e#1560#1561#0" expanded="true" />
             <element signature="e#1599#1600#0" expanded="true" />
+            <element signature="e#1663#1664#0" expanded="true" />
             <element signature="e#1719#1720#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
             <element signature="e#1805#1806#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
             <element signature="e#1933#1934#0" expanded="true" />
           </folding>
         </state>
@@ -313,14 +344,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Musical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="459">
           <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding>
             <element signature="e#1405#1406#0" expanded="true" />
             <element signature="e#1442#1443#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
             <element signature="e#1512#1513#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
             <element signature="e#1608#1609#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
             <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
             <element signature="e#1786#1787#0" expanded="true" />
           </folding>
         </state>
@@ -328,15 +363,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Cartoons/Original.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="442">
+          <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1603#1604#0" expanded="true" />
             <element signature="e#1643#1644#0" expanded="true" />
+            <element signature="e#1677#1678#0" expanded="true" />
             <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1753#1754#0" expanded="true" />
             <element signature="e#1791#1792#0" expanded="true" />
+            <element signature="e#1823#1824#0" expanded="true" />
             <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1893#1894#0" expanded="true" />
             <element signature="e#1927#1928#0" expanded="true" />
             <element signature="e#1958#1959#0" expanded="true" />
             <element signature="e#2060#2061#0" expanded="true" />
@@ -346,21 +385,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Cartoons/Translated.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="476">
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
             <element signature="e#1429#1430#0" expanded="true" />
             <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
             <element signature="e#1529#1530#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
             <element signature="e#1613#1614#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
             <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
             <element signature="e#1749#1750#0" expanded="true" />
             <element signature="e#1780#1781#0" expanded="true" />
             <element signature="e#1874#1875#0" expanded="true" />
@@ -375,16 +412,6 @@
           <folding>
             <element signature="e#559#560#0" expanded="true" />
             <element signature="e#586#587#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

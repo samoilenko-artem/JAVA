@@ -18,11 +18,6 @@ public class Historical extends Film {
     public Historical(){
     }
 
-    @Override
-    public void Name(){
-        System.out.println("Троя");
-    }
-
     public String getHistoricalperiod() {
         return historicalperiod;
     }

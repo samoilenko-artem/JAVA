@@ -28,8 +28,10 @@ public class Musical implements Film,Object {
     public void printInfo(Film[] ob) throws java.io.IOException {
         films = ob;
         for (Film  i:ob){
-            if (i.getClass() == Musical.class)
-            System.out.println(i);
+            if (i.getClass() == Musical.class) {
+                System.out.println(i.Name());
+                System.out.println(i);
+            }
         }
         System.out.println();
     }
@@ -53,8 +55,8 @@ public class Musical implements Film,Object {
     }
 
     @Override
-    public void Name(){
-        System.out.println("Белый лебедь");
+    public String Name(){
+        return "Белый лебедь";
     }
 
     public String getInstrument() {

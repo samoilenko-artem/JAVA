@@ -4,6 +4,6 @@ public interface Film extends Object {
     String getProducer();
     String getAudience();
     double getDuration();
-    void Name();
+    String Name();
 }
 

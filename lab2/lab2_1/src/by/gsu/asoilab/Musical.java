@@ -18,11 +18,6 @@ public class Musical extends Film {
     public Musical(){
     }
 
-    @Override
-    public void Name(){
-        System.out.println("Белый лебедь");
-    }
-
     public String getInstrument() {
         return instrument;
     }

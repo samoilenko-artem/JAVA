@@ -28,8 +28,10 @@ public class Historical implements Film,Object {
     public void printInfo(Film[] ob) throws java.io.IOException {
         films = ob;
         for (Film  i:ob){
-            if (i.getClass() == Historical.class)
-            System.out.println(i);
+            if (i.getClass() == Historical.class) {
+                System.out.println(i.Name());
+                System.out.println(i);
+            }
         }
         System.out.println();
     }
@@ -53,8 +55,8 @@ public class Historical implements Film,Object {
     }
 
     @Override
-    public void Name(){
-        System.out.println("Троя");
+    public String Name(){
+        return "Троя";
     }
 
     public String getHistoricalperiod() {
